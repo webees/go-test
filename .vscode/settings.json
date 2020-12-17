@@ -1,0 +1,27 @@
+{
+  "terminal.integrated.shell.windows": "D:\\@Git\\bin\\bash.exe",
+  "files.eol": "\n",
+  "files.autoSave": "afterDelay",
+  "files.insertFinalNewline": true,
+  "files.trimTrailingWhitespace": true,
+  "files.trimFinalNewlines": true,
+  "editor.tabSize": 2,
+  "editor.renderWhitespace": "all",
+  "editor.renderControlCharacters": true,
+  "editor.detectIndentation": false,
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true,
+  "editor.formatOnPaste": true,
+  "go.useLanguageServer": true,
+  "go.inferGopath": false,
+  "go.docsTool": "gogetdoc",
+  "go.formatTool": "goreturns",
+  "go.goroot": "D:\\@Go",
+  "go.toolsGopath": "D:\\@Go\\GOPATH",
+  "go.buildOnSave": "package",
+  "go.lintOnSave": "package",
+  "go.vetOnSave": "package",
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#795548"
+  }
+}
